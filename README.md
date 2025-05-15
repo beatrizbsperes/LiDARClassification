@@ -1,4 +1,4 @@
-# Notebook or LiDAR Classification
+# Notebook for LiDAR Classification
 
 A Python tool made in Jupyter Notebook for automatic classification of LiDAR point cloud data. Identifies ground, buildings and vegetation from raw LAS files.
 

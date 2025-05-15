@@ -1,0 +1,4 @@
+name: lidarclassification
+channels:
+  - defaults
+prefix: C:\Users\35196\anaconda3\envs\lidarclassification

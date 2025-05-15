@@ -21,6 +21,16 @@ A Python tool made in Jupyter Notebook for automatic classification of LiDAR poi
 6. **Refine** with machine learning
 7. **Visualize** and **Export** classified point cloud
 
+## Classification Codes
+
+- 0: Unclassified (gray)
+- 1: Ground (brown)
+- 2: Buildings (red)
+- 3: Vegetation (green)
+
+<img src="images/1_unclassified.png" width="300"><img src="images/2_ground_extraction.png" width="300">
+<img src="images/3_classification.png" width="300"><img src="images/4_ML_refinement.png" width="300">
+
 ## Usage
 
 ```python
@@ -42,9 +52,3 @@ processor.export_result("classified.las")
 
 - numpy, scipy, laspy, scikit-learn, matplotlib, open3d
 
-## Classification Codes
-
-- 0: Unclassified (gray)
-- 1: Ground (brown)
-- 2: Buildings (red)
-- 3: Vegetation (green)

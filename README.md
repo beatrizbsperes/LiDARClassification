@@ -2,6 +2,8 @@
 
 A Python tool made in Jupyter Notebook for automatic classification of LiDAR point cloud data. Identifies ground, buildings and vegetation from raw LAS files.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/beatrizbsperes/LiDARClassification/blob/main/LiDARClassificationRoutine_colab.ipynb)
+
 ## Features
 
 - Processes standard LAS format LiDAR data
